@@ -1,0 +1,6 @@
+__pycache__/
+*.png
+test_env.py
+quick_view.py
+view_dataset.py
+implementation_plan.md
